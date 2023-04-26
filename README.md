@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SKORNEV74
-- 👀 I’m interested in web-programming
-- 🌱 I’m currently learning Vue 3
+- 👀 I’m interested in frontend-development
+<!--- 🌱 I’m currently learning Vue 3
 <!--- 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me - sergey.kornev1995@gmail.com
 <!---
